@@ -1,4 +1,4 @@
-# Attrition-Insights-Building-a-Resilient-Workforce-at-Innov8-Using-Tableau
+# Attrition Insights: Building a Resilient Workforce at Innov8 Using Tableau
 Innov8, a leading Health technology company with close to 1500 employees, is facing a significant challenge with an attrition rate of 16%. Out of its workforce, 243 employees have resigned, impacting the company's productivity and stability.
 
 As a data analyst contracted by Innov8, I was tasked with analyzing the HR Attrition dataset to identify factors contributing to attrition and develop strategies to reduce it.
